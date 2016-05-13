@@ -1,0 +1,895 @@
+[
+  {
+    "code" : 1,
+    "name" : "北海道",
+    "name_en" : "Hokkaido",
+    "region" : "北海道",
+    "region_en" : "Hokkaido",
+    "capital" : "札幌市",
+    "capital_en" : "Sapporo",
+    "first_name_governor" : "はるみ",
+    "first_name_governor_en" : "Harumi",
+    "last_name_governor" : "高橋",
+    "last_name_governor_en" : "Takahashi",
+    "Area" : 83424.22,
+    "Population" : {
+        "Total" : 5383579,
+        "Density" : 68.6
+    },
+    "url" : "www.pref.hokkaido.lg.jp"
+  },
+  {
+    "code" : 2,
+    "name" : "青森県",
+    "name_en" : "Aomori",
+    "region" : "東北",
+    "region_en" : "Tohoku",
+    "capital" : "青森市",
+    "capital_en" : "Aomori",
+    "first_name_governor" : "申吾",
+    "first_name_governor_en" : "Shingo",
+    "last_name_governor" : "三村",
+    "last_name_governor_en" : "Mimura",
+    "Area" : 9645.40,
+    "Population" : {
+        "Total" : 1308649,
+        "Density" : 135.7
+    },
+    "url" : "www.pref.aomori.lg.jp"
+  },
+  {
+    "code" : 3,
+    "name" : "岩手県",
+    "name_en" : "Iwate",
+    "region" : "東北",
+    "region_en" : "Tohoku",
+    "capital" : "盛岡市",
+    "capital_en" : "Morioka",
+    "first_name_governor" : "拓也",
+    "first_name_governor_en" : "Takuya",
+    "last_name_governor" : "達増",
+    "last_name_governor_en" : "Tasso",
+    "Area" : 15275.01,
+    "Population" : {
+        "Total" : 1279814,
+        "Density" : 83.8
+    },
+    "url" : "www.pref.iwate.jp"
+  },
+  {
+    "code" : 4,
+    "name" : "宮城県",
+    "name_en" : "Miyagi",
+    "region" : "東北",
+    "region_en" : "Tohoku",
+    "capital" : "仙台市",
+    "capital_en" : "Sendai",
+    "first_name_governor" : "嘉浩",
+    "first_name_governor_en" : "Yoshihiro",
+    "last_name_governor" : "村井",
+    "last_name_governor_en" : "Murai",
+    "Area" : 7282.14,
+    "Population" : {
+        "Total" : 2334215,
+        "Density" : 320.5
+    },
+    "url" : "www.pref.miyagi.jp"
+  },
+  {
+    "code" : 5,
+    "name" : "秋田県",
+    "name_en" : "Akita",
+    "region" : "東北",
+    "region_en" : "Tohoku",
+    "capital" : "秋田市",
+    "capital_en" : "Akita",
+    "first_name_governor" : "敬久",
+    "first_name_governor_en" : "Norihisa",
+    "last_name_governor" : "佐竹",
+    "last_name_governor_en" : "Satake",
+    "Area" : 11637.54,
+    "Population" : {
+        "Total" : 1022839,
+        "Density" : 87.9
+    },
+    "url" : "www.pref.akita.lg.jp"
+  },
+  {
+    "code" : 6,
+    "name" : "山形県",
+    "name_en" : "Yamagata",
+    "region" : "東北",
+    "region_en" : "Tohoku",
+    "capital" : "山形市",
+    "capital_en" : "Yamagata",
+    "first_name_governor" : "美栄子",
+    "first_name_governor_en" : "Mieko",
+    "last_name_governor" : "吉村",
+    "last_name_governor_en" : "Yoshimura",
+    "Area" : 9323.15,
+    "Population" : {
+        "Total" : 1122957,
+        "Density" : 120.4
+    },
+    "url" : "www.pref.yamagata.jp"
+  },
+  {
+    "code" : 7,
+    "name" : "福島県",
+    "name_en" : "Fukushima",
+    "region" : "東北",
+    "region_en" : "Tohoku",
+    "capital" : "福島市",
+    "capital_en" : "Fukushima",
+    "first_name_governor" : "雅雄",
+    "first_name_governor_en" : "Masao",
+    "last_name_governor" : "内堀",
+    "last_name_governor_en" : "Uchibori",
+    "Area" : 13783.75,
+    "Population" : {
+        "Total" : 1913606,
+        "Density" : 138.8
+    },
+    "url" : "www.pref.fukushima.lg.jp"
+  },
+  {
+    "code" : 8,
+    "name" : "茨城県",
+    "name_en" : "Ibaraki",
+    "region" : "関東",
+    "region_en" : "Kanto",
+    "capital" : "水戸市",
+    "capital_en" : "Mito",
+    "first_name_governor" : "昌",
+    "first_name_governor_en" : "Masaru",
+    "last_name_governor" : "橋本",
+    "last_name_governor_en" : "Hashimoto",
+    "Area" : 6096.93,
+    "Population" : {
+        "Total" : 2917857,
+        "Density" : 478.6
+    },
+    "url" : "www.pref.ibaraki.jp"
+  },
+  {
+    "code" : 9,
+    "name" : "栃木県",
+    "name_en" : "Tochigi",
+    "region" : "関東",
+    "region_en" : "Kanto",
+    "capital" : "宇都宮市",
+    "capital_en" : "Utsunomiya",
+    "first_name_governor" : "富一",
+    "first_name_governor_en" : "Tomikazu",
+    "last_name_governor" : "福田",
+    "last_name_governor_en" : "Fukuda",
+    "Area" : 6408.09,
+    "Population" : {
+        "Total" : 1974671,
+        "Density" : 308.2
+    },
+    "url" : "www.pref.tochigi.lg.jp"
+  },
+  {
+    "code" : 10,
+    "name" : "群馬県",
+    "name_en" : "Gunma",
+    "region" : "関東",
+    "region_en" : "Kanto",
+    "capital" : "前橋市",
+    "capital_en" : "Maebashi",
+    "first_name_governor" : "正明",
+    "first_name_governor_en" : "Masaaki",
+    "last_name_governor" : "大澤",
+    "last_name_governor_en" : "Osawa",
+    "Area" : 6362.28,
+    "Population" : {
+        "Total" : 1973476,
+        "Density" : 310.2
+    },
+    "url" : "www.pref.gunma.jp"
+  },
+  {
+    "code" : 11,
+    "name" : "埼玉県",
+    "name_en" : "Saitama",
+    "region" : "関東",
+    "region_en" : "Kanto",
+    "capital" : "さいたま市",
+    "capital_en" : "Saitama",
+    "first_name_governor" : "清司",
+    "first_name_governor_en" : "Kiyoshi",
+    "last_name_governor" : "上田",
+    "last_name_governor_en" : "Ueda",
+    "Area" : 3797.75,
+    "Population" : {
+        "Total" : 7261271,
+        "Density" : 1912.0
+    },
+    "url" : "www.pref.saitama.lg.jp"
+  },
+  {
+    "code" : 12,
+    "name" : "千葉県",
+    "name_en" : "Chiba",
+    "region" : "関東",
+    "region_en" : "Kanto",
+    "capital" : "千葉市",
+    "capital_en" : "Chiba",
+    "first_name_governor" : "健作",
+    "first_name_governor_en" : "Kensaku",
+    "last_name_governor" : "森田",
+    "last_name_governor_en" : "Morita",
+    "Area" : 5157.64,
+    "Population" : {
+        "Total" : 6224027,
+        "Density" : 1206.8
+    },
+    "url" : "www.pref.chiba.lg.jp"
+  },
+  {
+    "code" : 13,
+    "name" : "東京都",
+    "name_en" : "Tokyo",
+    "region" : "関東",
+    "region_en" : "Kanto",
+    "capital" : "東京",
+    "capital_en" : "Tokyo",
+    "first_name_governor" : "要一",
+    "first_name_governor_en" : "Yoichi",
+    "last_name_governor" : "舛添",
+    "last_name_governor_en" : "Masuzoe",
+    "Area" : 2190.90,
+    "Population" : {
+        "Total" : 13513734,
+        "Density" : 6168.1
+    },
+    "url" : "www.metro.tokyo.jp"
+  },
+  {
+    "code" : 14,
+    "name" : "神奈川県",
+    "name_en" : "Kanagawa",
+    "region" : "関東",
+    "region_en" : "Kanto",
+    "capital" : "横浜市",
+    "capital_en" : "Yokohama",
+    "first_name_governor" : "祐治",
+    "first_name_governor_en" : "Yuji",
+    "last_name_governor" : "黒岩",
+    "last_name_governor_en" : "Kuroiwa",
+    "Area" : 2415.81,
+    "Population" : {
+        "Total" : 9127323,
+        "Density" : 3778.2
+    },
+    "url" : "www.pref.kanagawa.jp"
+  },
+  {
+    "code" : 15,
+    "name" : "新潟県",
+    "name_en" : "Niigata",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "新潟市",
+    "capital_en" : "Niigata",
+    "first_name_governor" : "裕彦",
+    "first_name_governor_en" : "Hirohiko",
+    "last_name_governor" : "泉田",
+    "last_name_governor_en" : "Izumida",
+    "Area" : 12584.10,
+    "Population" : {
+        "Total" : 2305098,
+        "Density" : 183.2
+    },
+    "url" : "www.pref.niigata.lg.jp"
+  },
+  {
+    "code" : 16,
+    "name" : "富山県",
+    "name_en" : "Toyama",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "富山市",
+    "capital_en" : "Toyama",
+    "first_name_governor" : "隆一",
+    "first_name_governor_en" : "Takakazu",
+    "last_name_governor" : "石井",
+    "last_name_governor_en" : "Ishii",
+    "Area" : 4247.61,
+    "Population" : {
+        "Total" : 1066883,
+        "Density" : 251.2
+    },
+    "url" : "www.pref.toyama.jp"
+  },
+  {
+    "code" : 17,
+    "name" : "石川県",
+    "name_en" : "Ishikawa",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "金沢市",
+    "capital_en" : "Kanazawa",
+    "first_name_governor" : "正憲",
+    "first_name_governor_en" : "Masanori",
+    "last_name_governor" : "谷本",
+    "last_name_governor_en" : "Tanimoto",
+    "Area" : 4186.15,
+    "Population" : {
+        "Total" : 1154343,
+        "Density" : 275.8
+    },
+    "url" : "www.pref.ishikawa.lg.jp"
+  },
+  {
+    "code" : 18,
+    "name" : "福井県",
+    "name_en" : "Fukui",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "福井市",
+    "capital_en" : "Fukui",
+    "first_name_governor" : "一誠",
+    "first_name_governor_en" : "Issei",
+    "last_name_governor" : "西川",
+    "last_name_governor_en" : "Nishikawa",
+    "Area" : 4190.43,
+    "Population" : {
+        "Total" : 787099,
+        "Density" : 187.8
+    },
+    "url" : "www.pref.fukui.jp"
+  },
+  {
+    "code" : 19,
+    "name" : "山梨県",
+    "name_en" : "Yamanashi",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "甲府市",
+    "capital_en" : "Kofu",
+    "first_name_governor" : "斎",
+    "first_name_governor_en" : "Hitoshi",
+    "last_name_governor" : "後藤",
+    "last_name_governor_en" : "Goto",
+    "Area" : 4464.99,
+    "Population" : {
+        "Total" : 835165,
+        "Density" : 187.0
+    },
+    "url" : "www.pref.yamanashi.jp"
+  },
+  {
+    "code" : 20,
+    "name" : "長野県",
+    "name_en" : "Nagano",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "長野市",
+    "capital_en" : "Nagano",
+    "first_name_governor" : "守一",
+    "first_name_governor_en" : "Shuichi",
+    "last_name_governor" : "阿部",
+    "last_name_governor_en" : "Abe",
+    "Area" : 13561.56,
+    "Population" : {
+        "Total" : 2099759,
+        "Density" : 154.8
+    },
+    "url" : "www.pref.nagano.lg.jp"
+  },
+  {
+    "code" : 21,
+    "name" : "岐阜県",
+    "name_en" : "Gifu",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "岐阜市",
+    "capital_en" : "Gifu",
+    "first_name_governor" : "肇",
+    "first_name_governor_en" : "Hajime",
+    "last_name_governor" : "古田",
+    "last_name_governor_en" : "Furuta",
+    "Area" : 10621.29,
+    "Population" : {
+        "Total" : 2032533,
+        "Density" : 191.4
+    },
+    "url" : "www.pref.gifu.lg.jp"
+  },
+  {
+    "code" : 22,
+    "name" : "静岡県",
+    "name_en" : "Shizuoka",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "静岡市",
+    "capital_en" : "Shizuoka",
+    "first_name_governor" : "平太",
+    "first_name_governor_en" : "Heita",
+    "last_name_governor" : "川勝",
+    "last_name_governor_en" : "Kawakatsu",
+    "Area" : 7778.70,
+    "Population" : {
+        "Total" : 3701181,
+        "Density" : 475.8
+    },
+    "url" : "www.pref.shizuoka.jp"
+  },
+  {
+    "code" : 23,
+    "name" : "愛知県",
+    "name_en" : "Aichi",
+    "region" : "中部",
+    "region_en" : "Chubu",
+    "capital" : "名古屋市",
+    "capital_en" : "Nagoya",
+    "first_name_governor" : "秀章",
+    "first_name_governor" : "Hideaki",
+    "last_name_governor" : "大村",
+    "last_name_governor" : "Omura",
+    "Area" : 5172.40,
+    "Population" : {
+        "Total" : 7484094,
+        "Density" : 1446.9
+    },
+    "url" : "www.pref.aichi.jp"
+  },
+  {
+    "code" : 24,
+    "name" : "三重県",
+    "name_en" : "Mie",
+    "region" : "関西",
+    "region_en" : "Kansai",
+    "capital" : "津市",
+    "capital_en" : "Tsu",
+    "first_name_governor" : "英敬",
+    "first_name_governor_en" : "Eikei",
+    "last_name_governor" : "鈴木",
+    "last_name_governor_en" : "Suzuki",
+    "Area" : 5774.39,
+    "Population" : {
+        "Total" : 1815827,
+        "Density" : 314.5
+    },
+    "url" : "www.pref.mie.lg.jp"
+  },
+  {
+    "code" : 25,
+    "name" : "滋賀県",
+    "name_en" : "Shiga",
+    "region" : "関西",
+    "region_en" : "Kansai",
+    "capital" : "大津市",
+    "capital_en" : "Otsu",
+    "first_name_governor" : "大造",
+    "first_name_governor_en" : "Taizo",
+    "last_name_governor" : "三日月",
+    "last_name_governor_en" : "Mikazuki",
+    "Area" : 4017.38,
+    "Population" : {
+        "Total" : 1413184,
+        "Density" : 351.8
+    },
+    "url" : "www.pref.shiga.lg.jp"
+  },
+  {
+    "code" : 26,
+    "name" : "京都府",
+    "name_en" : "Kyoto",
+    "region" : "関西",
+    "region_en" : "Kansai",
+    "capital" : "京都市",
+    "capital_en" : "Kyoto",
+    "first_name_governor" : "啓二",
+    "first_name_governor_en" : "Keiji",
+    "last_name_governor" : "山田",
+    "last_name_governor_en" : "Yamada",
+    "Area" : 4612.20,
+    "Population" : {
+        "Total" : 2610140,
+        "Density" : 565.9
+    },
+    "url" : "www.pref.kyoto.jp"
+  },
+  {
+    "code" : 27,
+    "name" : "大阪府",
+    "name_en" : "Osaka",
+    "region" : "関西",
+    "region_en" : "Kansai",
+    "capital" : "大阪市",
+    "capital_en" : "Osaka",
+    "first_name_governor" : "一郎",
+    "first_name_governor_en" : "Ichiro",
+    "last_name_governor" : "松井",
+    "last_name_governor_en" : "Matsui",
+    "Area" : 1904.99,
+    "Population" : {
+        "Total" : 8838908,
+        "Density" : 4639.9
+    },
+    "url" : "www.pref.osaka.lg.jp"
+  },
+  {
+    "code" : 28,
+    "name" : "兵庫県",
+    "name_en" : "Hyogo",
+    "region" : "関西",
+    "region_en" : "Kansai",
+    "capital" : "神戸市",
+    "capital_en" : "Kobe",
+    "first_name_governor" : "敏三",
+    "first_name_governor_en" : "Toshizo",
+    "last_name_governor" : "井戸",
+    "last_name_governor_en" : "Ido",
+    "Area" : 8400.90,
+    "Population" : {
+        "Total" : 5536989,
+        "Density" : 659.1
+    },
+    "url" : "web.pref.hyogo.lg.jp"
+  },
+  {
+    "code" : 29,
+    "name" : "奈良県",
+    "name_en" : "Nara",
+    "region" : "関西",
+    "region_en" : "Kansai",
+    "capital" : "奈良市",
+    "capital_en" : "Nara",
+    "first_name_governor" : "正吾",
+    "first_name_governor_en" : "Shogo",
+    "last_name_governor" : "荒井",
+    "last_name_governor_en" : "Arai",
+    "Area" : 3690.94,
+    "Population" : {
+        "Total" : 1365008,
+        "Density" : 369.8
+    },
+    "url" : "www.pref.nara.jp"
+  },
+  {
+    "code" : 30,
+    "name" : "和歌山県",
+    "name_en" : "Wakayama",
+    "region" : "関西",
+    "region_en" : "Kansai",
+    "capital" : "和歌山市",
+    "capital_en" : "Wakayama",
+    "first_name_governor" : "吉伸",
+    "first_name_governor_en" : "Yoshinobu",
+    "last_name_governor" : "仁坂",
+    "last_name_governor_en" : "Nisaka",
+    "Area" : 4724.68,
+    "Population" : {
+        "Total" : 963850,
+        "Density" : 204.0
+    },
+    "url" : "www.pref.wakayama.lg.jp"
+  },
+  {
+    "code" : 31,
+    "name" : "鳥取県",
+    "name_en" : "Tottori",
+    "region" : "中国",
+    "region_en" : "Chugoku",
+    "capital" : "鳥取市",
+    "capital_en" : "Tottori",
+    "first_name_governor" : "伸治",
+    "first_name_governor_en" : "Shinji",
+    "last_name_governor" : "平井",
+    "last_name_governor_en" : "Hirai",
+    "Area" : 3507.05,
+    "Population" : {
+        "Total" : 573648,
+        "Density" : 163.6
+    },
+    "url" : "www.pref.tottori.lg.jp"
+  },
+  {
+    "code" : 32,
+    "name" : "島根県",
+    "name_en" : "Shimane",
+    "region" : "中国",
+    "region_en" : "Chugoku",
+    "capital" : "松江市",
+    "capital_en" : "Matsue",
+    "first_name_governor" : "善兵衛",
+    "first_name_governor_en" : "Zenbee",
+    "last_name_governor" : "溝口",
+    "last_name_governor_en" : "Mizoguchi",
+    "Area" : 6708.23,
+    "Population" : {
+        "Total" : 694188,
+        "Density" : 103.5
+    },
+    "url" : "www.pref.shimane.lg.jp"
+  },
+  {
+    "code" : 33,
+    "name" : "岡山県",
+    "name_en" : "Okayama",
+    "region" : "中国",
+    "region_en" : "Chugoku",
+    "capital" : "岡山市",
+    "capital_en" : "Okayama",
+    "first_name_governor" : "隆太",
+    "first_name_governor_en" : "Ryuta",
+    "last_name_governor" : "伊原木",
+    "last_name_governor_en" : "Ibaragi",
+    "Area" : 7114.62,
+    "Population" : {
+        "Total" : 1922181,
+        "Density" : 270.2
+    },
+    "url" : "www.pref.okayama.jp"
+  },
+  {
+    "code" : 34,
+    "name" : "広島県",
+    "name_en" : "Hiroshima",
+    "region" : "中国",
+    "region_en" : "Chugoku",
+    "capital" : "広島市",
+    "capital_en" : "Hiroshima",
+    "first_name_governor" : "英彦",
+    "first_name_governor_en" : "Hidehiko",
+    "last_name_governor" : "湯崎",
+    "last_name_governor_en" : "Yuzaki",
+    "Area" : 8479.38,
+    "Population" : {
+        "Total" : 2844963,
+        "Density" : 335.5
+    },
+    "url" : "www.pref.hiroshima.lg.jp"
+  },
+  {
+    "code" : 35,
+    "name" : "山口県",
+    "name_en" : "Yamaguchi",
+    "region" : "中国",
+    "region_en" : "Chugoku",
+    "capital" : "山口市",
+    "capital_en" : "Yamaguchi",
+    "first_name_governor" : "嗣政",
+    "first_name_governor_en" : "Tsugumasa",
+    "last_name_governor" : "村岡",
+    "last_name_governor_en" : "Muraoka",
+    "Area" : 6112.30,
+    "Population" : {
+        "Total" : 1405007,
+        "Density" : 229.9
+    },
+    "url" : "www.pref.yamaguchi.lg.jp"
+  },
+  {
+    "code" : 36,
+    "name" : "徳島県",
+    "name_en" : "Tokushima",
+    "region" : "四国",
+    "region_en" : "Shikoku",
+    "capital" : "徳島市",
+    "capital_en" : "Tokushima",
+    "first_name_governor" : "嘉門",
+    "first_name_governor_en" : "Kamon",
+    "last_name_governor" : "飯泉",
+    "last_name_governor_en" : "Iizumi",
+    "Area" : 4146.93,
+    "Population" : {
+        "Total" : 756063,
+        "Density" : 182.3
+    },
+    "url" : "www.pref.tokushima.jp"
+  },
+  {
+    "code" : 37,
+    "name" : "香川県",
+    "name_en" : "Kagawa",
+    "region" : "四国",
+    "region_en" : "Shikoku",
+    "capital" : "高松市",
+    "capital_en" : "Takamatsu",
+    "first_name_governor" : "恵造",
+    "first_name_governor_en" : "Keizo",
+    "last_name_governor" : "浜田",
+    "last_name_governor_en" : "Hamada",
+    "Area" : 1876.73,
+    "Population" : {
+        "Total" : 976756,
+        "Density" : 520.5
+    },
+    "url" : "www.pref.kagawa.jp"
+  },
+  {
+    "code" : 38,
+    "name" : "愛媛県",
+    "name_en" : "Ehime",
+    "region" : "四国",
+    "region_en" : "Shikoku",
+    "capital" : "松山市",
+    "capital_en" : "Matsuyama",
+    "first_name_governor" : "時広",
+    "first_name_governor_en" : "Tokihiro",
+    "last_name_governor" : "中村",
+    "last_name_governor_en" : "Nakamura",
+    "Area" : 5676.10,
+    "Population" : {
+        "Total" : 1385840,
+        "Density" : 244.2
+    },
+    "url" : "www.pref.ehime.jp"
+  },
+  {
+    "code" : 39,
+    "name" : "高知県",
+    "name_en" : "Kochi",
+    "region" : "四国",
+    "region_en" : "Shikoku",
+    "capital" : "高知市",
+    "capital_en" : "Kochi",
+    "first_name_governor" : "正直",
+    "first_name_governor_en" : "Masanao",
+    "last_name_governor" : "正直",
+    "last_name_governor_en" : "Ozaki",
+    "Area" : 7103.91,
+    "Population" : {
+        "Total" : 728461,
+        "Density" : 102.5
+    },
+    "url" : "www.pref.kochi.lg.jp"
+  },
+  {
+    "code" : 40,
+    "name" : "福岡県",
+    "name_en" : "Fukuoka",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "福岡市",
+    "capital_en" : "Fukuoka",
+    "first_name_governor" : "洋",
+    "first_name_governor_en" : "Hiroshi",
+    "last_name_governor" : "小川",
+    "last_name_governor_en" : "Ogawa",
+    "Area" : 4986.40,
+    "Population" : {
+        "Total" : 5102871,
+        "Density" : 1023.4
+    },
+    "url" : "www.pref.fukuoka.lg.jp"
+  },
+  {
+    "code" : 41,
+    "name" : "佐賀県",
+    "name_en" : "Saga",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "佐賀市",
+    "capital_en" : "Saga",
+    "first_name_governor" : "祥義",
+    "first_name_governor_en" : "Yoshinori",
+    "last_name_governor" : "山口",
+    "last_name_governor_en" : "Yamaguchi",
+    "Area" : 2440.64,
+    "Population" : {
+        "Total" : 833245,
+        "Density" : 341.4
+    },
+    "url" : "www.pref.saga.lg.jp"
+  },
+  {
+    "code" : 42,
+    "name" : "長崎県",
+    "name_en" : "Nagasaki",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "長崎市",
+    "capital_en" : "Nagasaki",
+    "first_name_governor" : "法道",
+    "first_name_governor_en" : "Hodo",
+    "last_name_governor" : "中村",
+    "last_name_governor_en" : "Nakamura",
+    "Area" : 4132.32,
+    "Population" : {
+        "Total" : 1377780,
+        "Density" : 333.4
+    },
+    "url" : "www.pref.nagasaki.jp"
+  },
+  {
+    "code" : 43,
+    "name" : "熊本県",
+    "name_en" : "Kumamoto",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "熊本市",
+    "capital_en" : "Kumamoto",
+    "first_name_governor" : "郁夫",
+    "first_name_governor_en" : "Ikuo",
+    "last_name_governor" : "蒲島",
+    "last_name_governor_en" : "Kabashima",
+    "Area" : 7409.32,
+    "Population" : {
+        "Total" : 1786969,
+        "Density" : 241.2
+    },
+    "url" : "www.pref.kumamoto.jp"
+  },
+  {
+    "code" : 44,
+    "name" : "大分県",
+    "name_en" : "Oita",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "大分市",
+    "capital_en" : "Oita",
+    "first_name_governor" : "勝貞",
+    "first_name_governor_en" : "Katsusada",
+    "last_name_governor" : "広瀬",
+    "last_name_governor_en" : "Hirose",
+    "Area" : 6340.61,
+    "Population" : {
+        "Total" : 1166729,
+        "Density" : 184.0
+    },
+    "url" : "www.pref.oita.jp"
+  },
+  {
+    "code" : 45,
+    "name" : "宮崎県",
+    "name_en" : "Miyazaki",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "宮崎市",
+    "capital_en" : "Miyazaki",
+    "first_name_governor" : "俊嗣",
+    "first_name_governor_en" : "Shunji",
+    "last_name_governor" : "河野",
+    "last_name_governor_en" : "Kono",
+    "Area" : 7735.31,
+    "Population" : {
+        "Total" : 1104377,
+        "Density" : 142.8
+    },
+    "url" : "www.pref.miyazaki.lg.jp"
+  },
+  {
+    "code" : 46,
+    "name" : "鹿児島県",
+    "name_en" : "Kagoshima",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "鹿児島市",
+    "capital_en" : "Kagoshima",
+    "first_name_governor" : "祐一郎",
+    "first_name_governor_en" : "Yuichiro",
+    "last_name_governor" : "伊藤",
+    "last_name_governor_en" : "Ito",
+    "Area" : 9188.10,
+    "Population" : {
+        "Total" : 1648752,
+        "Density" : 179.4
+    },
+    "url" : "www.pref.kagoshima.jp"
+  },
+  {
+    "code" : 47,
+    "name" : "沖縄県",
+    "name_en" : "Okinawa",
+    "region" : "九州",
+    "region_en" : "Kyushu",
+    "capital" : "那覇市",
+    "capital_en" : "Naha",
+    "first_name_governor" : "雄志",
+    "first_name_governor_en" : "Takeshi",
+    "last_name_governor" : "翁長",
+    "last_name_governor_en" : "Onaga",
+    "Area" : 2281.00,
+    "Population" : {
+        "Total" : 1434138,
+        "Density" : 628.7
+    },
+    "url" : "www.pref.okinawa.jp"
+  }
+]
