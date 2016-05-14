@@ -1,6 +1,6 @@
 # PrefectureJp
 
-A source for data about Japanese prefecture.  
+A source for data about Japanese prefectures.  
 Area and population are from [here](http://www.e-stat.go.jp/SG1/estat/GL08020103.do?_toGL08020103_&tclassID=000001068779&cycleCode=0&requestSender=search).
 
 ## Installation
@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-#### Jpanese prefecture
+#### Japanese prefectures
 
 List all prefectures.
 
@@ -50,6 +50,7 @@ kyushu = PrefectureJp::Prefecture.kyushu
 ```
 
 Find a specific prefecture.
+
 ```ruby
 tokyo = PrefectureJp::Prefecture.find_by_prefecture_code(13)
 

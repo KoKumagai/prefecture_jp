@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ko Kumagai"]
   spec.email         = ["ko.kumagai.ko@gmail.com"]
 
-  spec.summary       = %q{A source for data about Jpanese prefecture.}
-  spec.description   = %q{A source for data about Jpanese prefecture.}
+  spec.summary       = %q{A source for data about Jpanese prefectures.}
+  spec.description   = %q{A source for data about Jpanese prefectures.}
   spec.homepage      = "https://github.com/KoKumagai/prefecture_jp"
   spec.license       = "MIT"
 
