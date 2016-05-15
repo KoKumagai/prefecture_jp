@@ -1,5 +1,7 @@
 # PrefectureJp
 
+[![Gem Version](https://badge.fury.io/rb/prefecture_jp.svg)](https://badge.fury.io/rb/prefecture_jp)
+
 A source for data about Japanese prefectures.  
 Area and population are from [here](http://www.e-stat.go.jp/SG1/estat/GL08020103.do?_toGL08020103_&tclassID=000001068779&cycleCode=0&requestSender=search).
 
